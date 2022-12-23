@@ -13,3 +13,9 @@ tr, td{
     border: 1px solid black;
 }
 
+body
+{
+    background-color: rgb(187, 182, 182);
+    font-family: 'Times New Roman', Times, serif;
+}
+
